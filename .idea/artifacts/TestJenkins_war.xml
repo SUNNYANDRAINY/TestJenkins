@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestJenkins:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TestJenkins.war">
+      <element id="artifact" artifact-name="TestJenkins:war exploded" />
+    </root>
+  </artifact>
+</component>
